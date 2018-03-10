@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main ();
+{
+    for (i=10,i<99999,i++)
+        {
+            if (i<100)
+            {
+                sqr((i/10)+ %(i/10)) == sqr (i)
+            }
+        }
+}
